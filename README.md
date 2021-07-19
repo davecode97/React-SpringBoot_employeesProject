@@ -1,4 +1,6 @@
 # React-SpringBoot_employeesProject
+React + Spring Boot Fullstack CRUD web aplication.
+
 ## Diagrams
 Client Server Architecture
 
