@@ -1,10 +1,11 @@
 # React-SpringBoot_employeesProject
 Fullstack CRUD web aplication.
-
-Frontend: React 
-
- Backend: Spring Boot 
- 
+```
+Frontend: React 17.0.2.
+```
+```
+Backend: Spring Boot 2.7.8-SNAPSHOT.
+```
 ## Diagrams
 Client Server Architecture
 
@@ -22,3 +23,7 @@ Application Architecture
 ![image](https://user-images.githubusercontent.com/67779237/126105733-5fb3d22f-d526-4b86-8fd4-73cac6837e98.png)
 --
 ![image](https://user-images.githubusercontent.com/67779237/126105781-59dbb9ee-83ac-44fa-acba-45e6af408cbd.png)
+
+
+FullStack Application made by <a href="https://youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr">Java Guides </a> youtube tutorial.
+
